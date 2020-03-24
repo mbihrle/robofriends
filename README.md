@@ -1,4 +1,4 @@
-<h1> Simple React Project with robot faces </h1>
+<h1> Simple React Project With Robot Faces </h1>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
